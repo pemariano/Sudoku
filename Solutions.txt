@@ -1,0 +1,17 @@
+Number of solutions for each matrix:
+
+sudoku1: 3
+sudoku2: incorrect matrix
+sudoku3: 2
+sudoku4: 1
+sudoku5: 0
+sudoku6: 0
+sudoku7: 4
+sudoku8: 1
+sudoku9: incorrect matrix
+sudoku10: 5
+sudoku11: 1
+sudoku12: 16
+sudoku13: 0
+sudoku14: incorrect matrix
+sudoku15: 6
